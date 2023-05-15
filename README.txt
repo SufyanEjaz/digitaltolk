@@ -23,7 +23,18 @@ What I expect in your repo:
 
 X. A readme with:   Your thoughts about the code. What makes it amazing code. Or what makes it ok code. Or what makes it terrible code. How would you have done it. Thoughts on formatting, structure, logic.. The more details that you can provide about the code (what's terrible about it or/and what is good about it) the easier for us to assess your coding style, mentality etc
 
-And 
+Answer: (Generic Code Refactor)
+Based on the code observations, the possible refactoring approaches that i uses:
+
+Eliminating code duplication by extracting common logic into reusable functions.
+Breaking down the monolithic function into smaller functions, each responsible for a specific task.
+Used strict comparison operator === instead of ==.
+Removed unnecessary comments & commented code.
+Removing unnecessary assignments and variable declarations.
+Reordering the code for better readability.
+Using exceptions for error handling and implementing a centralized error handling mechanism.
+Introducing meaningful variable and function names to enhance code readability.
+Adding comments and documentation to improve code understanding.
 
 Y.  Refactor it if you feel it needs refactoring. The more love you put into it. The easier for us to asses your thoughts, code principles etc
 
